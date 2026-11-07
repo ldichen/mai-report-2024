@@ -1,0 +1,26 @@
+model_id,label,full_name,type,license,license_class,release_year,level,papers,patents,projects,paper_cites,patent_cites,mai,annual,rank,rank_2023,change,lifetime_rank,annual_rank,type_label,gap,group
+300,AWI-CM,Alfred Wegener Institute Climate Model,1,Academic,restricted,2015,coupled,55,0,1,386,0,3.186485,2.957832,75,93.0,18.0,142,75,Model,67,rising
+158,FIO-ESM,First Institute of Oceanography-Earth System Model,1,CC-BY-4.0,open,2013,,60,0,1,278,0,3.066848,2.71254,96,129.0,33.0,156,96,Model,60,rising
+273,CLUMondo,CLUMondo,1,Proprietary,proprietary,2013,,46,2,4,595,7,3.355375,2.993092,73,81.0,8.0,120,73,Model,47,rising
+127,LPI,Local Polynomial Interpolation,2,GPL-2.0,open,2001,,82,1,5,558,0,3.348836,2.941934,77,92.0,15.0,121,77,Method,44,rising
+138,GeoDa,GeoDa,2,GPL-3.0,open,2003,,150,0,25,881,0,3.556527,3.144826,59,82.0,23.0,100,59,Method,41,rising
+157,MRI-ESM,MRI Earth System Model,1,Academic,restricted,2011,coupled,156,0,2,1144,0,3.656083,3.377381,48,58.0,10.0,87,48,Model,39,rising
+161,CMCC-CM,CMCC Climate Model,1,Academic,restricted,2011,coupled,165,0,4,1168,0,3.666865,3.299688,52,71.0,19.0,83,52,Model,31,rising
+297,INM-CM,Institute of Numerical Mathematics Climate Model,1,,unknown,2002,coupled,223,0,3,1094,0,3.657814,3.188543,57,67.0,10.0,86,57,Model,29,rising
+203,Tapio,Tapio Decoupling Model,1,,unknown,2005,,510,1,7,4683,0,4.259246,3.968365,12,15.0,3.0,36,12,Model,24,rising
+298,UKESM,UK Earth System Model,1,Academic,restricted,2018,coupled,159,1,68,1462,1,3.759411,3.28574,53,55.0,2.0,75,53,Model,22,rising
+293,E3SM,Energy Exascale Earth System Model,1,BSD-3-Clause,open,2018,coupled,320,0,149,1615,0,3.835594,3.426988,45,47.0,2.0,66,45,Model,21,rising
+148,EC-Earth,European Community Earth-System Model,1,Apache-2.0,open,2010,coupled,527,0,5,3884,0,4.186595,3.741664,22,24.0,2.0,42,22,Model,20,rising
+173,EGM96,Earth Gravitational Model 1996,1,Public Domain,open,1996,,327,0,2,780,0,3.571896,1.510411,210,147.0,-63.0,96,210,Model,-114,levelling
+206,MESSAGE,Model for Energy Supply Strategy Alternatives and their General Environmental Impact,1,Apache-2.0,open,1978,,124,0,1,928,0,3.564268,1.51904,209,200.0,-9.0,98,209,Model,-111,levelling
+69,POM,Princeton Ocean Model,1,BSD-3-Clause,open,1987,,859,5,41,2086,9,3.999432,2.352433,137,133.0,-4.0,54,137,Model,-83,levelling
+152,HadCM,Hadley Centre Coupled Model,1,Academic,restricted,1995,coupled,1488,0,1,9274,0,4.572263,3.104005,66,54.0,-12.0,14,66,Model,-52,levelling
+159,CCSM,Community Climate System Model,1,BSD-3-Clause,open,1996,coupled,1057,1,57,8002,3,4.500125,3.116418,64,57.0,-7.0,18,64,Model,-46,levelling
+174,IGRF,International Geomagnetic Reference Field,1,AGPL-3.0,open,1968,,780,30,13,2342,249,4.037537,2.782358,90,53.0,-37.0,50,90,Model,-40,levelling
+90,TOPMODEL,Topography-Based Hydrological Model,1,GPL-2.0,open,1979,,628,0,37,2285,0,4.000196,2.862436,83,86.0,3.0,52,83,Model,-31,levelling
+164,CSIRO-Mk3,CSIRO Mark 3 Climate System Model,1,Academic,restricted,2002,coupled,261,0,2,1778,0,3.850795,2.72991,94,94.0,0.0,64,94,Model,-30,levelling
+201,DRAINMOD,DRAINMOD,1,Freeware,freeware,1978,,466,1,63,887,5,3.661942,2.626299,114,91.0,-23.0,84,114,Model,-30,levelling
+217,RZWQM,Root Zone Water Quality Model,1,Freeware,freeware,1992,standalone,394,2,72,1376,34,3.789778,2.698161,97,83.0,-14.0,71,97,Model,-26,levelling
+55,MOM,Modular Ocean Model,1,LGPL-3.0,open,1990,component,229,3,9,1344,8,3.738241,2.666499,104,109.0,5.0,78,104,Model,-26,levelling
+214,APEX,Agricultural Policy/Environmental eXtender,1,MIT,open,1995,,228,0,100,797,0,3.557964,2.547455,120,100.0,-20.0,99,120,Model,-21,levelling
+113,CALPUFF,California Puff Model,1,Freeware,freeware,1990,,652,4,11,1526,2,3.866247,2.872459,82,78.0,-4.0,62,82,Model,-20,levelling

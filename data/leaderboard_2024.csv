@@ -1,0 +1,285 @@
+model_id,label,full_name,type,license,license_class,release_year,level,papers,patents,projects,paper_cites,patent_cites,mai,annual,rank,rank_2023,change,lifetime_rank,annual_rank,type_label
+109,GWR,Geographically Weighted Regression,2,GPL-2.0,open,1996,,5676,33,111,30793,154,5.101931,4.66376,1,1.0,0.0,3,1,Method
+100,WRF,Weather Research and Forecasting Model,1,Public Domain,open,2000,,11673,19,848,47527,75,5.310077,4.604685,2,3.0,1.0,1,2,Model
+84,SWAT,Soil and Water Assessment Tool,1,GPL-3.0,open,1994,,8830,13,519,33385,79,5.162028,4.535145,3,2.0,-1.0,2,3,Model
+130,GeoDetector,Geographical Detector,2,GPL-2.0,open,2010,,2405,3,16,14677,4,4.772869,4.52599,4,5.0,1.0,5,4,Method
+205,InVEST,Integrated Valuation of Ecosystem Services and Tradeoffs,1,Apache-2.0,open,2008,,2426,0,71,11823,0,4.69223,4.387897,5,6.0,1.0,10,5,Model
+62,OpenFOAM,Open Field Operation and Manipulation,1,GPL-3.0,open,2004,,6517,2,133,22221,2,4.992223,4.384287,6,4.0,-2.0,4,6,Model
+224,RUSLE,Revised Universal Soil Loss Equation,2,Public Domain,open,1991,standalone,2654,6,34,10318,44,4.648794,4.089625,7,8.0,1.0,11,7,Method
+160,CESM,Community Earth System Model,1,NCSA,open,2010,coupled,1794,2,235,13412,7,4.726242,4.012396,8,9.0,1.0,8,8,Model
+237,HYDRUS,Hydrus,1,Proprietary,proprietary,1991,,3080,10,99,11607,19,4.702645,4.006731,9,10.0,1.0,9,9,Model
+85,SWMM,Storm Water Management Model,1,Public Domain,open,1971,,2504,41,105,7853,172,4.551159,3.996324,10,12.0,2.0,16,10,Model
+80,SPH,Smoothed Particle Hydrodynamics,2,LGPL-2.1,open,1977,,3593,61,45,11975,288,4.728263,3.973764,11,7.0,-4.0,7,11,Method
+203,Tapio,Tapio Decoupling Model,1,,unknown,2005,,510,1,7,4683,0,4.259246,3.968365,12,15.0,3.0,36,12,Model
+112,CMAQ,Community Multiscale Air Quality Modeling System,1,MIT,open,1998,,2549,1,171,13178,0,4.736594,3.941757,13,11.0,-2.0,6,13,Model
+149,HEC-RAS,Hydrologic Engineering Center - River Analysis System,1,Public Domain,open,1995,,2204,3,13,6175,9,4.45369,3.908698,14,14.0,0.0,20,14,Model
+54,MODFLOW,Modular Finite-Difference Ground-Water Flow Model,1,Public Domain,open,1984,,3014,1,152,8445,12,4.591278,3.873245,15,13.0,-2.0,13,15,Model
+119,CASA,Carnegie-Ames-Stanford Approach,1,MIT,open,1993,,914,3,35,5614,12,4.356043,3.841574,16,23.0,7.0,28,16,Model
+125,IDW,Inverse Distance Weighted Interpolation,2,MIT,open,1968,,1308,35,20,5675,93,4.383128,3.818695,17,18.0,1.0,26,17,Method
+210,DSSAT,Decision Support System for Agrotechnology Transfer,1,BSD-3-Clause,open,1989,,1390,6,181,6150,144,4.419837,3.771021,18,17.0,-1.0,24,18,Model
+155,CanESM,Canadian Earth System Model,1,GPL-2.0,open,2009,coupled,675,2,2,4594,2,4.263072,3.748895,19,20.0,1.0,35,19,Model
+211,APSIM,Agricultural Production Systems Simulator,1,Custom-NonOSI,restricted,1995,,1359,1,101,7262,5,4.476071,3.748722,20,21.0,1.0,19,20,Model
+147,HEC-HMS,Hydrologic Engineering Center - Hydrologic Modeling System,1,Public Domain,open,1998,,1280,3,6,3904,3,4.246421,3.741895,21,28.0,7.0,39,21,Model
+148,EC-Earth,European Community Earth-System Model,1,Apache-2.0,open,2010,coupled,527,0,5,3884,0,4.186595,3.741664,22,24.0,2.0,42,22,Model
+215,AquaCrop,AquaCrop,1,Apache-2.0,open,2009,,967,3,63,4228,13,4.254144,3.719959,23,27.0,4.0,37,23,Model
+166,HadGEM,Hadley Centre Global Environment Model,1,Academic,restricted,2006,coupled,1274,2,15,9007,16,4.553982,3.714976,24,16.0,-8.0,15,24,Model
+290,MPI-ESM,Max Planck Institute Earth System Model,1,Academic,restricted,2013,coupled,855,1,16,5288,2,4.329098,3.705822,25,29.0,4.0,32,25,Model
+289,MIROC,Model for Interdisciplinary Research on Climate,1,Proprietary,proprietary,2004,coupled,1089,2,21,6906,2,4.443778,3.689462,26,22.0,-4.0,22,26,Model
+291,CFS,Climate Forecast System,1,Public Domain,open,2004,coupled,1757,4,34,9892,5,4.60613,3.675656,27,19.0,-8.0,12,27,Model
+63,PHREEQC,pH-REdox-EQuilibrium (in C language),1,Public Domain,open,1995,,1103,0,58,5193,0,4.337714,3.633294,28,31.0,3.0,30,28,Model
+108,FDS,Fire Dynamics Simulator,1,Public Domain,open,2000,,2096,4,77,4303,27,4.333173,3.61646,29,26.0,-3.0,31,29,Model
+241,CLM,Community Land Model,1,NCSA,open,2002,component,1340,2,90,8370,5,4.528987,3.603992,30,30.0,0.0,17,30,Model
+18,Delft3D,Delft3D,1,AGPL-3.0,open,1994,,1438,4,58,4312,18,4.292774,3.59901,31,33.0,2.0,34,31,Model
+83,SWAN,Simulating Waves Nearshore,1,GPL-2.0,open,1997,,2031,2,63,6193,16,4.447885,3.57738,32,32.0,0.0,21,32,Model
+191,GFS,Global Forecast System,1,LGPL-3.0,open,2002,,1435,10,37,5566,14,4.381251,3.55928,33,37.0,4.0,27,33,Model
+153,BCC-CSM,Beijing Climate Center Climate System Model,1,Academic,restricted,2010,coupled,428,2,0,2760,6,4.044545,3.536805,34,39.0,5.0,49,34,Model
+96,VIC,Variable Infiltration Capacity,1,MIT,open,1994,,875,8,72,6300,52,4.399953,3.525604,35,25.0,-10.0,25,35,Model
+35,HBV,Hydrologiska Byrans Vattenbalansavdelning,1,MIT,open,1972,,886,1,13,4950,1,4.305735,3.523088,36,34.0,-2.0,33,36,Model
+239,CROPWAT,CROPWAT,1,Proprietary,proprietary,1992,,558,0,12,2350,0,4.000183,3.520311,37,41.0,4.0,53,37,Model
+170,IRI,International Reference Ionosphere,1,MIT,open,1978,,2126,19,25,4565,76,4.35339,3.509653,38,42.0,4.0,29,38,Model
+73,ROMS,Regional Ocean Modeling System,1,MIT,open,2000,,1425,4,100,6324,14,4.427994,3.467639,39,49.0,10.0,23,39,Model
+151,GFDL-ESM,GFDL Earth System Model,1,LGPL-3.0,open,2012,coupled,359,0,10,2884,0,4.053997,3.466448,40,40.0,0.0,47,40,Model
+296,ACCESS,Australian Community Climate and Earth System Simulator,1,Academic,restricted,2013,coupled,318,1,1,2183,45,3.94176,3.460211,41,48.0,7.0,58,41,Model
+97,WACCM,Whole Atmosphere Community Climate Model,1,BSD-3-Clause,open,2002,component,750,1,69,4331,6,4.247634,3.454974,42,36.0,-6.0,38,42,Model
+292,IPSL-CM,Institut Pierre-Simon Laplace Climate Model,1,CeCILL,open,1997,coupled,495,0,3,4080,0,4.203294,3.442,43,35.0,-8.0,41,43,Model
+240,GLEAM,Global Land Evaporation Amsterdam Model,1,Academic,restricted,2011,,237,3,6,2265,4,3.942895,3.435175,44,43.0,-1.0,57,44,Model
+293,E3SM,Energy Exascale Earth System Model,1,BSD-3-Clause,open,2018,coupled,320,0,149,1615,0,3.835594,3.426988,45,47.0,2.0,66,45,Model
+146,EPANET,EPANET,1,MIT,open,1993,,1464,21,21,3316,58,4.208693,3.421622,46,44.0,-2.0,40,46,Model
+234,Noah-MP,Noah Land Surface Model with Multi-Parameterization Options,1,Custom-NonOSI,restricted,2011,,368,0,12,2072,0,3.927455,3.387456,47,51.0,4.0,61,47,Model
+157,MRI-ESM,MRI Earth System Model,1,Academic,restricted,2011,coupled,156,0,2,1144,0,3.656083,3.377381,48,58.0,10.0,87,48,Model
+162,CNRM-CM,CNRM Coupled Model,1,Academic,restricted,2004,coupled,415,0,8,3241,0,4.1057,3.376258,49,38.0,-11.0,46,49,Model
+123,EBK,Empirical Bayesian Kriging,2,GPL-3.0,open,2012,,283,0,6,1737,0,3.846026,3.332602,50,52.0,2.0,65,50,Method
+114,CAMx,Comprehensive Air Quality Model with Extensions,1,Custom-NonOSI,restricted,1997,,689,7,39,3294,24,4.140116,3.332164,51,45.0,-6.0,44,51,Model
+161,CMCC-CM,CMCC Climate Model,1,Academic,restricted,2011,coupled,165,0,4,1168,0,3.666865,3.299688,52,71.0,19.0,83,52,Model
+298,UKESM,UK Earth System Model,1,Academic,restricted,2018,coupled,159,1,68,1462,1,3.759411,3.28574,53,55.0,2.0,75,53,Model
+295,NorESM,Norwegian Earth System Model,1,NCSA,open,2013,coupled,349,0,35,2414,0,3.984511,3.282348,54,46.0,-8.0,55,54,Model
+99,WOFOST,World Food Studies,1,GPL-3.0,open,1986,,423,5,29,2063,23,3.936355,3.235084,55,61.0,6.0,60,55,Model
+213,EPIC,Environmental Policy Integrated Climate,1,GPL-3.0,open,1984,,793,2,93,3623,4,4.185166,3.23231,56,50.0,-6.0,43,56,Model
+297,INM-CM,Institute of Numerical Mathematics Climate Model,1,,unknown,2002,coupled,223,0,3,1094,0,3.657814,3.188543,57,67.0,10.0,86,57,Model
+25,FVCOM,Unstructured Grid Finite Volume Coastal Ocean Model,1,MIT,open,2003,,717,2,59,2293,3,4.013751,3.182346,58,62.0,4.0,51,58,Model
+138,GeoDa,GeoDa,2,GPL-3.0,open,2003,,150,0,25,881,0,3.556527,3.144826,59,82.0,23.0,100,59,Method
+299,GISS-ModelE,NASA GISS ModelE,1,Public Domain,open,2004,coupled,246,0,13,2287,0,3.948077,3.134534,60,73.0,13.0,56,60,Model
+294,GFDL-CM,GFDL Coupled Model,1,Public Domain,open,2004,coupled,410,0,12,3499,0,4.135577,3.132003,61,59.0,-2.0,45,61,Model
+225,WEQ,Wind Erosion Equation,2,Public Domain,open,1965,,245,0,3,1135,0,3.677416,3.129973,62,66.0,4.0,81,62,Method
+23,EwE,Ecopath with Ecosim,1,MIT,open,1984,,658,1,10,2583,0,4.046241,3.119091,63,60.0,-3.0,48,63,Model
+159,CCSM,Community Climate System Model,1,BSD-3-Clause,open,1996,coupled,1057,1,57,8002,3,4.500125,3.116418,64,57.0,-7.0,18,64,Model
+236,WEAP,Water Evaluation and Planning System,1,Proprietary,proprietary,1990,,429,1,12,1645,2,3.852606,3.106075,65,56.0,-9.0,63,65,Model
+152,HadCM,Hadley Centre Coupled Model,1,Academic,restricted,1995,coupled,1488,0,1,9274,0,4.572263,3.104005,66,54.0,-12.0,14,66,Model
+250,LISFLOOD-FP,LISFLOOD-FP,1,GPL-3.0,open,2000,,195,1,1,1675,3,3.815352,3.095222,67,69.0,2.0,67,67,Model
+53,MITgcm,MIT General Circulation Model,1,MIT,open,1997,,365,1,57,2129,5,3.940131,3.093397,68,64.0,-4.0,59,68,Model
+252,SEAWAT,SEAWAT,1,Public Domain,open,1998,,385,1,6,1465,3,3.802603,3.08444,69,79.0,10.0,68,69,Model
+92,TELEMAC,TELEMAC,1,GPL-3.0,open,1987,,464,2,26,1286,1,3.775361,3.075295,70,70.0,0.0,72,70,Model
+168,NRLMSISE-00,Naval Research Laboratory Mass Spectrometer and Incoherent Scatter Radar Exosphere 2000,1,MIT,open,2000,,280,1,2,1052,24,3.661641,3.034207,71,63.0,-8.0,85,71,Model
+286,PCR-GLOBWB,PCRaster Global Water Balance,1,GPL-3.0,open,2008,,112,0,0,1541,0,3.764391,3.032498,72,89.0,17.0,73,72,Model
+273,CLUMondo,CLUMondo,1,Proprietary,proprietary,2013,,46,2,4,595,7,3.355375,2.993092,73,81.0,8.0,120,73,Model
+154,FGOALS,Flexible Global Ocean-Atmosphere-Land System Model,1,Academic,restricted,2004,,301,0,23,1297,0,3.741938,2.982638,74,68.0,-6.0,77,74,Model
+300,AWI-CM,Alfred Wegener Institute Climate Model,1,Academic,restricted,2015,coupled,55,0,1,386,0,3.186485,2.957832,75,93.0,18.0,142,75,Model
+188,TIE-GCM,Thermosphere Ionosphere Electrodynamics General Circulation Model,1,Academic,restricted,1992,,334,0,50,1458,0,3.79375,2.950297,76,75.0,-1.0,70,76,Model
+127,LPI,Local Polynomial Interpolation,2,GPL-2.0,open,2001,,82,1,5,558,0,3.348836,2.941934,77,92.0,15.0,121,77,Method
+58,Non-Local Means Filtering,Non-Local Means Filtering,2,GPL-3.0,open,2005,,326,1,1,1064,4,3.676113,2.929782,78,85.0,7.0,82,78,Method
+115,BEPS,Boreal Ecosystem Productivity Simulator,1,GPL-3.0,open,1997,,192,1,16,995,4,3.61541,2.929102,79,72.0,-7.0,92,79,Model
+79,SPARROW,Spatially Referenced Regressions on Watershed Attributes,2,CC0-1.0,open,1997,,166,0,21,939,0,3.585508,2.901333,80,74.0,-6.0,95,80,Method
+156,MRI-CGCM,MRI Coupled General Circulation Model,1,Academic,restricted,1995,coupled,168,0,6,1486,0,3.762435,2.890639,81,80.0,-1.0,74,81,Model
+113,CALPUFF,California Puff Model,1,Freeware,freeware,1990,,652,4,11,1526,2,3.866247,2.872459,82,78.0,-4.0,62,82,Model
+90,TOPMODEL,Topography-Based Hydrological Model,1,GPL-2.0,open,1979,,628,0,37,2285,0,4.000196,2.862436,83,86.0,3.0,52,83,Model
+226,OGS,OpenGeoSys,1,BSD-3-Clause,open,2012,,194,6,5,1003,72,3.625312,2.860661,84,77.0,-7.0,91,84,Model
+274,COAWST,Coupled Ocean-Atmosphere-Wave-Sediment Transport,1,MIT,open,2010,,195,1,10,975,0,3.607635,2.851906,85,88.0,3.0,93,85,Model
+120,LPJ-GUESS,Lund-Potsdam-Jena General Ecosystem Simulator,1,MPL-2.0,open,2001,,236,0,9,1581,0,3.801143,2.850867,86,84.0,-2.0,69,86,Model
+221,SLEUTH,SLEUTH Urban Growth Model,1,Academic,restricted,1997,,293,0,13,1313,0,3.743703,2.840464,87,90.0,3.0,76,87,Model
+244,mHM,Mesoscale Hydrologic Model,1,LGPL-3.0,open,2010,,130,0,5,1100,0,3.633559,2.832669,88,99.0,11.0,90,88,Model
+24,FUNWAVE,Fully Nonlinear Boussinesq Wave Model,1,GPL-3.0,open,1998,,190,1,3,954,2,3.597314,2.807461,89,65.0,-24.0,94,89,Model
+174,IGRF,International Geomagnetic Reference Field,1,AGPL-3.0,open,1968,,780,30,13,2342,249,4.037537,2.782358,90,53.0,-37.0,50,90,Model
+231,HGS,HydroGeoSphere,1,Proprietary,proprietary,2002,,198,6,7,1048,19,3.637598,2.780108,91,113.0,22.0,89,91,Model
+136,IBIS,Integrated Biosphere Simulator,1,Academic,restricted,1996,,189,0,13,1064,0,3.638828,2.759502,92,116.0,24.0,88,92,Model
+46,LISFLOOD,LISFLOOD,1,EUPL-1.2,open,1998,,98,5,3,959,11,3.570511,2.733558,93,105.0,12.0,97,93,Model
+164,CSIRO-Mk3,CSIRO Mark 3 Climate System Model,1,Academic,restricted,2002,coupled,261,0,2,1778,0,3.850795,2.72991,94,94.0,0.0,64,94,Model
+176,PFSS,Potential Field Source Surface Model,1,GPL-3.0,open,1969,,244,0,7,1244,0,3.711598,2.714983,95,97.0,2.0,80,95,Model
+158,FIO-ESM,First Institute of Oceanography-Earth System Model,1,CC-BY-4.0,open,2013,,60,0,1,278,0,3.066848,2.71254,96,129.0,33.0,156,96,Model
+217,RZWQM,Root Zone Water Quality Model,1,Freeware,freeware,1992,standalone,394,2,72,1376,34,3.789778,2.698161,97,83.0,-14.0,71,97,Model
+196,SAC-SMA,Sacramento Soil Moisture Accounting Model,1,Apache-2.0,open,1973,,168,0,1,1336,0,3.719924,2.687324,98,101.0,3.0,79,98,Model
+180,DTM,Drag Temperature Model,1,Academic,restricted,1978,,145,1,7,572,0,3.39237,2.681793,99,103.0,4.0,116,99,Model
+16,DHSVM,Distributed Hydrology Soil Vegetation Model,1,CC-BY-NC-SA-4.0,restricted,1994,,169,3,16,847,2,3.547912,2.680481,100,98.0,-2.0,105,100,Model
+116,DLEM,Dynamic Land Ecosystem Model,1,,unknown,2006,,78,0,17,687,0,3.430194,2.669335,101,131.0,30.0,112,101,Model
+177,WSA,Wang-Sheeley-Arge Model,1,Proprietary,proprietary,2000,,140,0,6,887,0,3.553014,2.669019,102,114.0,12.0,102,102,Model
+284,OGGM,Open Global Glacier Model,1,BSD-3-Clause,open,2016,,37,0,10,222,0,2.959132,2.66735,103,122.0,19.0,172,103,Model
+55,MOM,Modular Ocean Model,1,LGPL-3.0,open,1990,component,229,3,9,1344,8,3.738241,2.666499,104,109.0,5.0,78,104,Model
+47,LOADEST,Load Estimator,2,Public Domain,open,2004,,94,9,13,395,124,3.262112,2.664313,105,121.0,16.0,133,105,Method
+253,CREST,Coupled Routing and Excess STorage,1,BSD-3-Clause,open,2011,,93,0,3,892,0,3.537883,2.659907,106,76.0,-30.0,107,106,Model
+9,CAESAR-Lisflood,CAESAR-Lisflood,1,GPL-3.0,open,2013,,72,1,0,304,3,3.11287,2.658135,107,123.0,16.0,150,107,Model
+70,QUAL2K,Enhanced Stream Water Quality Model,1,Freeware,freeware,2003,standalone,215,0,5,596,0,3.439966,2.651801,108,95.0,-13.0,110,108,Model
+68,ParFlow,ParFlow,1,LGPL-2.1,open,1996,,154,3,14,872,19,3.555243,2.651103,109,87.0,-22.0,101,109,Model
+14,CAESAR,Cellular Automaton Evolutionary Slope and River Model,1,GPL-2.0,open,1998,,142,0,2,558,0,3.380743,2.637169,110,120.0,10.0,117,110,Model
+66,PISM,Parallel Ice Sheet Model,1,GPL-3.0,open,2006,,81,0,12,505,0,3.311319,2.636498,111,117.0,6.0,127,111,Model
+219,SHAW,Simultaneous Heat and Water Model,1,Public Domain,open,1989,,172,1,28,514,5,3.374519,2.636006,112,107.0,-5.0,119,112,Model
+212,SALUS,System Approach to Land Use Sustainability,1,Proprietary,proprietary,2001,,79,1,7,534,36,3.337819,2.631708,113,108.0,-5.0,124,113,Model
+201,DRAINMOD,DRAINMOD,1,Freeware,freeware,1978,,466,1,63,887,5,3.661942,2.626299,114,91.0,-23.0,84,114,Model
+223,Dinamica EGO,Environment for Geoprocessing Objects,1,Freeware,freeware,2002,,86,0,0,525,0,3.326389,2.594293,115,118.0,3.0,126,115,Model
+242,MGB,Modelo de Grandes Bacias,1,Academic,restricted,2001,,105,0,2,686,0,3.439483,2.581028,116,104.0,-12.0,111,116,Model
+230,FESOM,Finite Element Sea Ice-Ocean Model,1,LGPL-3.0,open,2009,component,107,0,11,656,0,3.42489,2.570905,117,125.0,8.0,113,117,Model
+243,GLM,General Lake Model,1,GPL-3.0,open,2012,,65,0,2,501,0,3.295776,2.558697,118,96.0,-22.0,131,118,Model
+103,SPECFEM,SPECFEM,1,GPL-3.0,open,1998,,127,2,5,450,13,3.299557,2.554441,119,111.0,-8.0,129,119,Model
+214,APEX,Agricultural Policy/Environmental eXtender,1,MIT,open,1995,,228,0,100,797,0,3.557964,2.547455,120,100.0,-20.0,99,120,Model
+245,ParFlow-CLM,ParFlow-CLM,1,GPL-2.0,open,2005,,51,0,2,306,0,3.093775,2.538234,121,128.0,7.0,151,121,Model
+190,JB2008,Jacchia-Bowman 2008 Empirical Thermospheric Density Model,1,Academic,restricted,2008,,45,0,2,243,0,2.999683,2.522496,122,110.0,-12.0,162,122,Model
+132,MODPATH,Modular Three-Dimensional Groundwater Flow Particle Tracking Model,1,Public Domain,open,1989,,143,0,1,380,0,3.248231,2.522053,123,144.0,21.0,136,123,Model
+13,CICE,Los Alamos Sea Ice Model,1,BSD-3-Clause,open,1998,component,166,1,20,861,0,3.55299,2.514348,124,115.0,-9.0,103,124,Model
+251,AQUATOX,AQUATOX,1,Public Domain,open,2000,,108,1,13,414,5,3.257609,2.484798,125,138.0,13.0,134,125,Model
+61,OlaFlow,OlaFlow,1,GPL-3.0,open,2017,,33,0,0,140,0,2.774831,2.460928,126,130.0,4.0,185,126,Model
+207,WITCH,World Induced Technical Change Hybrid Model,1,Apache-2.0,open,2006,,50,0,3,434,0,3.229144,2.456062,127,134.0,7.0,138,127,Model
+78,SLAMM,Sea Level Affecting Marshes Model,1,CPL-1.0,open,1986,,83,0,9,460,0,3.27651,2.435398,128,124.0,-4.0,132,128,Model
+189,GITM,Global Ionosphere Thermosphere Model,1,Apache-2.0,open,2006,,148,0,10,542,0,3.375188,2.431701,129,142.0,13.0,118,129,Model
+72,RHESSys,Regional Hydro-Ecologic Simulation System,1,MIT,open,1993,,90,0,4,534,0,3.336143,2.396565,130,112.0,-18.0,125,130,Model
+235,SUMMA,Structure for Unifying Multiple Modeling Alternatives,1,GPL-3.0,open,2015,,40,0,3,333,0,3.116023,2.396565,131,102.0,-29.0,148,131,Model
+40,ISSM,Ice Sheet System Model,1,BSD-3-Clause,open,2011,,59,0,14,343,0,3.14905,2.395711,132,159.0,27.0,145,132,Model
+232,iLand,Individual-based Forest Landscape and Disturbance Model,1,GPL-3.0,open,2012,,43,0,11,521,0,3.299553,2.391147,133,127.0,-6.0,130,133,Model
+169,HWM,Horizontal Wind Model,1,MIT,open,1987,,186,0,7,738,0,3.502069,2.389166,134,119.0,-15.0,109,134,Model
+39,ILAMB,International Land Model Benchmarking,1,BSD-3-Clause,open,2016,,18,0,8,434,0,3.206119,2.388581,135,154.0,19.0,141,135,Model
+204,AGNPS,Agricultural Non-Point Source Pollution Model,1,Public Domain,open,1987,,263,1,2,776,0,3.54804,2.374968,136,145.0,9.0,104,136,Model
+69,POM,Princeton Ocean Model,1,BSD-3-Clause,open,1987,,859,5,41,2086,9,3.999432,2.352433,137,133.0,-4.0,54,137,Model
+150,SHETRAN,Systeme Hydrologique Europeen - TRANsport,1,GPL-3.0,open,1990,,117,0,4,527,0,3.346758,2.348947,138,126.0,-12.0,122,138,Model
+145,MIKE URBAN,MIKE URBAN,1,Proprietary,proprietary,2005,,70,6,5,306,27,3.124778,2.347096,139,106.0,-33.0,146,139,Model
+67,PRMS,Precipitation-Runoff Modeling System,1,Public Domain,open,1983,,183,0,1,750,0,3.505781,2.339392,140,165.0,25.0,108,140,Model
+227,CABLE,Community Atmosphere Biosphere Land Exchange,1,CSIRO-BSD-MIT,open,2006,,109,0,7,881,0,3.539376,2.334192,141,141.0,0.0,106,141,Model
+276,CryoGrid,CryoGrid,1,GPL-3.0,open,2013,,27,5,5,252,34,3.009213,2.334112,142,136.0,-6.0,160,142,Model
+268,ATS,Advanced Terrestrial Simulator,1,BSD-3-Clause,open,2016,,30,0,3,250,0,2.991961,2.327665,143,169.0,26.0,164,143,Model
+26,FwDET,Floodwater Depth Estimation Tool,1,GPL-2.0,open,2017,,16,0,0,100,0,2.605908,2.321681,144,161.0,17.0,206,144,Model
+197,SNOW-17,SNOW-17 Snow Accumulation and Ablation Model,1,Apache-2.0,open,1973,,31,0,2,401,0,3.182132,2.315614,145,177.0,32.0,143,145,Model
+140,GBEHM,Geomorphology-Based Eco-Hydrological Model,1,,unknown,2016,,12,0,2,110,0,2.633226,2.266749,146,201.0,55.0,201,146,Model
+254,SUEWS,Surface Urban Energy and Water Balance Scheme,1,GPL-3.0,open,2011,,44,0,2,237,0,2.989005,2.262142,147,157.0,10.0,166,147,Model
+124,GPI,Global Polynomial Interpolation,2,Proprietary,proprietary,2001,,56,4,3,452,20,3.255408,2.259976,148,188.0,40.0,135,148,Method
+167,AWSoM,Alfven Wave Solar Atmosphere Model,1,Apache-2.0,open,2013,,30,0,2,246,0,2.985112,2.228606,149,140.0,-9.0,168,149,Model
+48,LTRANS,Larval Transport Lagrangian Model,1,MIT,open,2008,,15,0,1,93,0,2.576169,2.187746,150,173.0,23.0,208,150,Model
+98,WBMsed,Water Balance Model with Sediment,1,GPL-2.0,open,2013,,10,0,0,137,0,2.714179,2.18591,151,191.0,40.0,192,151,Model
+216,InfoCrop,InfoCrop,1,Freeware,freeware,2006,,97,1,0,255,12,3.080663,2.171083,152,174.0,22.0,153,152,Model
+185,RCM,Rice Convection Model,1,Apache-2.0,open,1981,,135,0,11,628,0,3.421908,2.170027,153,137.0,-16.0,114,153,Model
+179,CIMI,Comprehensive Inner-Magnetosphere Ionosphere Model,1,Apache-2.0,open,2014,,30,0,2,116,0,2.701999,2.161398,154,152.0,-2.0,195,154,Model
+195,pyGIMLi,Python Library for Geophysical Modelling and Inversion,1,Apache-2.0,open,2017,,12,0,0,38,0,2.233504,2.161398,155,192.0,37.0,231,155,Model
+233,Landlab,Landlab,1,MIT,open,2015,,29,4,13,189,5,2.893157,2.14814,156,148.0,-8.0,175,156,Model
+82,STWAVE,Steady-State Spectral Wave Model,1,GPL-2.0,open,1988,,80,1,2,269,6,3.079438,2.141575,157,210.0,53.0,154,157,Model
+144,RIEMS,Regional Integrated Environmental Model System,1,,unknown,2000,,51,0,6,159,0,2.858639,2.139533,158,196.0,38.0,178,158,Model
+209,GLOBIOM,Global Biosphere Management Model,1,Academic,restricted,2008,,59,0,8,570,0,3.344559,2.134273,159,168.0,9.0,123,159,Model
+262,SFINCS,Super-Fast INundation of CoastS,1,GPL-3.0,open,2021,,11,0,0,78,0,2.492327,2.116508,160,150.0,-10.0,215,160,Model
+280,IGM,Instructed Glacier Model,1,GPL-3.0,open,2022,,5,0,0,34,0,2.135419,2.106735,161,189.0,28.0,236,161,Model
+218,IFSM,Integrated Farm System Model,1,Public Domain,open,2003,,106,0,55,467,0,3.308261,2.074121,162,135.0,-27.0,128,162,Model
+30,GIPL,Geophysical Institute Permafrost Laboratory Model,1,MIT,open,2003,,15,0,1,131,0,2.70938,2.073645,163,167.0,4.0,194,163,Model
+187,OVATION Prime,Ovation Prime,1,Public Domain,open,2009,,32,0,2,131,0,2.750292,2.061566,164,151.0,-13.0,187,164,Model
+2,ANUGA,Anuga,1,Apache-2.0,open,2005,,42,2,1,96,0,2.670394,2.060396,165,149.0,-16.0,197,165,Model
+1,AeoLiS,AeoLiS,1,GPL-2.0,open,2016,,13,4,1,61,36,2.473093,2.059109,166,211.0,45.0,218,166,Model
+6,Badlands,Basin and Landscape Dynamics,1,GPL-3.0,open,2016,,24,0,1,72,0,2.516244,2.052271,167,183.0,16.0,211,167,Model
+33,GeoClaw,GeoClaw,1,BSD-3-Clause,open,2006,,39,1,4,203,3,2.927206,2.048286,168,153.0,-15.0,174,168,Model
+89,Symphonie,Symphonie,1,MIT,open,1993,,37,7,4,119,52,2.775246,2.033424,169,205.0,36.0,184,169,Model
+181,OpenGGCM,Open Geospace General Circulation Model,1,Proprietary,proprietary,2001,,49,0,13,205,0,2.948389,2.031247,170,158.0,-12.0,173,170,Model
+102,Citcom,California Institute of Technology Convection in the Mantle Code,1,GPL-2.0,open,1994,standalone,27,0,12,129,0,2.742136,2.019324,171,204.0,33.0,189,171,Model
+118,Ball-Berry Stomatal Conductance Model,Ball-Berry Stomatal Conductance Model,1,,unknown,1987,,13,0,0,117,0,2.658345,2.002943,172,166.0,-6.0,198,172,Model
+64,PIHM,Penn State Integrated Hydrologic Model,1,MIT,open,2007,,56,0,8,422,0,3.224077,1.994449,173,139.0,-34.0,139,173,Model
+87,SedFoam,SedFoam,1,GPL-3.0,open,2017,,22,1,4,106,0,2.651171,1.99158,174,172.0,-2.0,199,174,Model
+183,CTIPe,Coupled Thermosphere Ionosphere Plasmasphere Electrodynamics Model,1,Proprietary,proprietary,2001,,32,0,7,185,0,2.881133,1.986503,175,156.0,-19.0,176,175,Model
+141,HEIFLOW,Hydrology-Ecology Integrated Watershed Flow Model,1,GPL-3.0,open,2015,,6,0,3,49,0,2.292832,1.954243,176,163.0,-13.0,226,176,Model
+248,WaSSI,Water Supply Stress Index,1,Public Domain,open,2008,,41,0,9,230,0,2.977353,1.947924,177,143.0,-34.0,169,177,Model
+246,GBHM,Geomorphology-Based Hydrological Model,1,,unknown,1998,,50,2,5,288,3,3.072779,1.933892,178,146.0,-32.0,155,178,Model
+269,Alpine3D,Alpine3D,1,LGPL-3.0,open,2006,,47,0,11,301,0,3.086947,1.904607,179,187.0,8.0,152,179,Model
+208,MAGICC,Model for the Assessment of Greenhouse Gas Induced Climate Change,1,AGPL-3.0,open,1987,,98,0,4,633,0,3.405541,1.894814,180,155.0,-25.0,115,180,Model
+133,MT3D-USGS,Modular Three-Dimensional Transport Model - United States Geological Survey,1,CC0-1.0,open,2016,,12,0,0,51,0,2.337419,1.888573,181,194.0,13.0,223,181,Model
+43,Icepack,Icepack,1,GPL-3.0,open,2016,,15,6,6,35,11,2.285895,1.862131,182,175.0,-7.0,228,182,Model
+94,TopoToolbox,TopoToolbox,1,GPL-2.0,open,2010,,19,1,1,173,3,2.830794,1.851197,183,178.0,-5.0,181,183,Model
+202,SPAW,Soil-Plant-Air-Water,1,Public Domain,open,1974,,54,2,8,136,32,2.835893,1.828015,184,193.0,9.0,180,184,Model
+20,Demeter,Demeter Land Use Change Disaggregation Model,1,BSD-2-Clause,open,2018,,6,0,1,61,0,2.374272,1.813448,185,224.0,39.0,221,185,Model
+238,MESH,Modélisation Environnementale Communautaire - Surface Hydrology,1,OGL-Canada-2.0,open,2007,,16,0,2,106,0,2.630591,1.809088,186,195.0,9.0,202,186,Model
+171,PIM,Parameterized Ionospheric Model,1,,unknown,1995,,70,3,1,185,46,2.960713,1.80291,187,181.0,-6.0,171,187,Model
+76,SELFE,Semi-implicit Eulerian-Lagrangian Finite Element,1,GPL-2.0,open,2008,,62,2,3,303,34,3.113783,1.802637,188,207.0,19.0,149,188,Model
+21,EF5,Ensemble Framework For Flash Flood Forecasting,1,Unlicense,open,2016,,18,0,10,115,0,2.67576,1.775028,189,198.0,9.0,196,189,Model
+19,DeltaRCM,Delta Reduced-Complexity Model,1,MIT,open,2015,,10,0,1,75,0,2.474537,1.763128,190,182.0,-8.0,217,190,Model
+15,Coastal Dune Model,Coastal Dune Model,1,GPL-2.0,open,2013,,8,0,8,58,0,2.379704,1.756712,191,214.0,23.0,220,191,Model
+143,ETWatch,Evapotranspiration Watch,1,Proprietary,proprietary,2008,,21,0,1,127,0,2.712102,1.735599,192,179.0,-13.0,193,192,Model
+192,Flux-PIHM,Flux-PIHM,1,MIT,open,2013,,13,0,0,171,0,2.8113,1.735599,193,212.0,19.0,182,193,Model
+117,GLO-PEM,Global Production Efficiency Model,1,,unknown,1995,,55,0,2,262,0,3.039815,1.730378,194,171.0,-23.0,158,194,Model
+51,MARSSIM,Mathematical Analysis of River and Slope SIMulation,1,GPL-3.0,open,1994,,4,0,3,24,0,2.006209,1.706206,195,217.0,22.0,253,195,Model
+122,ECBILT-CLIO,ECBILT - Coupled Large-scale Ice-Ocean Model,1,Academic,restricted,2001,,31,0,0,273,0,3.02657,1.706206,196,219.0,23.0,159,196,Model
+186,FRC,Fok Ring Current Model,1,Proprietary,proprietary,1993,,28,0,4,131,0,2.742976,1.694956,197,190.0,-7.0,188,197,Model
+31,GSFLOW,Groundwater and Surface-Water Flow Model,1,Public Domain,open,2008,,43,0,6,276,0,3.047435,1.68922,198,176.0,-22.0,157,198,Model
+193,BioRT-Flux-PIHM,BioRT-Flux-PIHM,1,MIT,open,2019,,4,0,0,87,0,2.508341,1.674677,199,213.0,14.0,213,199,Model
+194,RT-Flux-PIHM,Reactive Transport-Flux-Penn State Integrated Hydrologic Model,1,MIT,open,2017,,4,0,0,87,0,2.508341,1.674677,200,220.0,20.0,214,200,Model
+278,GeoFlood,GeoFlood,1,BSD-3-Clause,open,2024,,6,2,0,23,1,2.014521,1.67219,201,,,250,201,Model
+59,OTIS,One-Dimensional Transport with Inflow and Storage,1,Public Domain,open,1998,,96,1,2,375,7,3.211022,1.632963,202,164.0,-38.0,140,202,Model
+28,GEOtop,GEOtop,1,GPL-3.0,open,2006,,70,0,3,311,0,3.118998,1.627571,203,199.0,-4.0,147,203,Model
+271,Barrier3D,Barrier3D,1,MIT,open,2020,,2,2,0,22,56,2.155943,1.603794,204,203.0,-1.0,234,204,Model
+131,RLS90,Richtlinien fuer den Laermschutz an Strassen 1990,2,Custom-NonOSI,restricted,1990,,9,0,0,17,0,1.943049,1.596707,205,234.0,29.0,255,205,Method
+77,SICOPOLIS,Simulation Code for Polythermal Ice Sheets,1,GPL-3.0,open,1997,,43,0,1,240,0,2.991957,1.563481,206,222.0,16.0,165,206,Model
+200,HAZUS-MH,Hazards United States Multi-Hazard,1,Freeware,freeware,2004,,99,1,3,325,2,3.16211,1.530712,207,132.0,-75.0,144,207,Model
+134,SEAM3D,"Sequential Electron Acceptor Model, 3-Dimensional",1,Proprietary,proprietary,1997,,14,0,2,20,0,2.061377,1.51904,208,221.0,13.0,242,208,Model
+206,MESSAGE,Model for Energy Supply Strategy Alternatives and their General Environmental Impact,1,Apache-2.0,open,1978,,124,0,1,928,0,3.564268,1.51904,209,200.0,-9.0,98,209,Model
+173,EGM96,Earth Gravitational Model 1996,1,Public Domain,open,1996,,327,0,2,780,0,3.571896,1.510411,210,147.0,-63.0,96,210,Model
+165,CAMS-CSM,Chinese Academy of Meteorological Sciences Climate System Model,1,,unknown,2018,,26,0,2,94,0,2.616518,1.501607,211,180.0,-31.0,205,211,Model
+229,MEDFATE,Mediterranean Forest Simulation,1,GPL-2.0,open,2015,,3,0,7,7,0,1.628287,1.476397,212,232.0,20.0,264,212,Model
+107,ECOMSED,"Estuarine, Coastal and Ocean Model - Sediment Transport",1,Academic,restricted,2002,,79,0,5,104,0,2.782995,1.469527,213,218.0,5.0,183,213,Model
+111,AVIM,Atmosphere-Vegetation Interaction Model,1,,unknown,1995,,49,0,15,114,0,2.752993,1.459845,214,206.0,-8.0,186,214,Model
+101,PyLith,PyLith,1,MIT,open,2007,,13,2,8,71,5,2.488,1.459845,215,197.0,-18.0,216,215,Model
+110,SEIMS,Spatially Explicit Integrated Modeling System,1,GPL-3.0,open,2016,,5,1,1,27,0,2.056219,1.36903,216,229.0,13.0,243,216,Model
+44,KWAVE,Kinematic Wave Approximation Model,1,GPL-3.0,open,2016,,5,0,3,24,0,2.018492,1.323458,217,242.0,25.0,249,217,Model
+265,WAVI,Wavelet-based Adaptive-grid Vertically-integrated Ice model,1,GPL-3.0,open,2015,,2,0,5,4,0,1.42586,1.323458,218,278.0,60.0,274,218,Model
+263,tRIBS,TIN-based Real-time Integrated Basin Simulator,1,MIT,open,2004,,42,1,5,244,9,3.003241,1.319314,219,216.0,-3.0,161,219,Model
+34,GrainHill,Grain Hill,1,MIT,open,2018,,8,6,4,9,1,1.832381,1.294687,220,227.0,7.0,257,220,Model
+249,Pywr,Pywr,1,GPL-3.0,open,2015,,4,5,1,21,14,2.032095,1.26998,221,250.0,29.0,244,221,Model
+74,RivMAP,RivMAP,1,GPL-3.0,open,2017,,7,0,0,31,0,2.119685,1.258877,222,231.0,9.0,239,222,Model
+37,HydroTrend,HydroTrend,1,MIT,open,1998,,30,2,3,169,0,2.84221,1.258877,223,248.0,25.0,179,223,Model
+288,SedCas,Sediment Cascade,1,GPL-3.0,open,2021,,3,4,3,42,7,2.239875,1.237292,224,160.0,-64.0,229,224,Model
+129,GModel,GModel,1,BSD-3-Clause,open,2016,,3,6,1,4,70,2.005481,1.231979,225,226.0,1.0,254,225,Model
+106,Mineos,Mineos,1,GPL-2.0,open,2007,,3,1,4,1,10,1.459392,1.195346,226,236.0,10.0,271,226,Model
+57,mocsy,Routines to Model the Ocean Carbonate System,1,MIT,open,2014,,2,0,0,10,0,1.627571,1.182985,227,237.0,10.0,265,227,Model
+279,HydroCNHS,Hydrological Model for Coupled Natural-Human Systems,1,BSD-3-Clause,open,2022,,1,0,0,4,0,1.258877,1.182985,228,235.0,7.0,275,228,Model
+95,Underworld,Underworld,1,LGPL-2.1,open,2007,,8,5,3,21,33,2.147831,1.166726,229,208.0,-21.0,235,229,Model
+128,Moving Window Kriging,Moving Window Kriging,2,Proprietary,proprietary,1990,,14,0,0,37,0,2.239199,1.144263,230,233.0,3.0,230,230,Method
+56,MarshMorpho2D,MarshMorpho2D,1,BSD-2-Clause,open,2018,,2,0,0,32,0,2.081851,1.067443,231,249.0,18.0,241,231,Model
+105,AxiSEM,Axisymmetric Spectral Element Method,1,GPL-3.0,open,2014,,13,0,1,140,0,2.731065,1.042576,232,185.0,-47.0,191,232,Model
+220,Madingley,Madingley Model,1,MIT,open,2014,,14,0,0,80,0,2.513936,1.042576,233,223.0,-10.0,212,233,Model
+247,WASMOD,Water And Snow Balance MODel,1,Academic,restricted,2002,,52,0,3,235,0,2.996634,1.042576,234,244.0,10.0,163,234,Model
+255,DVM-DOS-TEM,Dynamic Vegetation Model - Dynamic Organic Soil - Terrestrial Ecosystem Model,1,GPL-3.0,open,2012,,2,0,0,2,0,1.144263,1.042576,235,251.0,16.0,278,235,Model
+71,QUODDY,QUODDY,1,,unknown,1996,,57,0,0,70,0,2.619166,1.042576,236,240.0,4.0,204,236,Model
+256,goSPL,Global Scalable Paleo Landscape Evolution,1,GPL-3.0,open,2020,,2,0,0,1,0,1.016197,1.016197,237,,,281,237,Model
+266,WSIMOD,Water Systems Integrated Modelling,1,BSD-3-Clause,open,2022,,3,0,2,0,0,1.078094,0.988113,238,253.0,15.0,280,238,Model
+184,DGCPM,Dynamic Global Core Plasmasphere Model,1,Apache-2.0,open,1997,,9,0,1,30,0,2.130687,0.909556,239,238.0,-1.0,237,239,Model
+88,Sedflux,Sedflux,1,MIT,open,2001,,12,2,3,51,9,2.365301,0.90309,240,239.0,-1.0,222,240,Model
+222,UrbanSim,UrbanSim,1,BSD-3-Clause,open,1998,,77,1,23,200,9,2.98805,0.873321,241,241.0,0.0,167,241,Model
+257,MOSART-WM,MOSART-WM,1,BSD-2-Clause,open,2013,,3,0,0,32,0,2.092194,0.873321,242,277.0,35.0,240,242,Model
+283,NEWTS,Numerical Model of Coastal Erosion by Waves and Transgressive Scarps,1,Public Domain,open,2023,,1,0,5,1,0,1.116276,0.873321,243,260.0,17.0,279,243,Model
+60,OceanWaves,OceanWaves,1,MIT,open,2008,,5,3,0,9,6,1.75343,0.839478,244,246.0,2.0,259,244,Model
+12,CEM,Coastline Evolution Model,1,MIT,open,2001,,36,0,4,124,0,2.741687,0.833784,245,209.0,-36.0,190,245,Model
+198,FRZ,Frozen Ground Model,1,Public Domain,open,1999,,9,1,7,104,40,2.649627,0.788875,246,170.0,-76.0,200,246,Model
+258,Oceananigans,Oceananigans,1,MIT,open,2020,,2,0,3,0,0,1.007748,0.788875,247,257.0,10.0,282,247,Model
+29,gFlex,gFlex,1,GPL-3.0,open,2015,,2,6,1,6,3,1.585235,0.782473,248,245.0,-3.0,266,248,Model
+139,AquiferFlow,AquiferFlow,1,,unknown,2007,,1,1,0,5,5,1.443106,0.778151,249,247.0,-2.0,273,249,Model
+7,Bedrock Erosion Model,Bedrock Erosion Model,1,GPL-3.0,open,2008,,8,0,6,20,0,2.009451,0.701568,250,215.0,-35.0,252,250,Model
+178,REASE,Relativistic Electron Alert System for Exploration,1,Proprietary,proprietary,2007,,7,0,3,41,0,2.232208,0.701568,251,275.0,24.0,232,251,Model
+104,BurnMan,BurnMan,1,GPL-2.0,open,2014,,11,1,2,48,1,2.318397,0.691081,252,225.0,-27.0,224,252,Model
+81,STVENANT,Saint-Venant Equations Solver,2,Academic,restricted,1994,,5,0,1,9,0,1.687618,0.592177,253,230.0,-23.0,262,253,Method
+182,CMIT,Coupled Magnetosphere Ionosphere Thermosphere Model,1,Proprietary,proprietary,2004,,46,0,8,218,0,2.963741,0.592177,254,162.0,-92.0,170,254,Model
+281,MPeat2D,MPeat2D,1,GPL-3.0,open,2023,,1,0,0,0,0,0.592177,0.592177,255,,,284,255,Model
+52,MICOM,Miami Isopycnic Coordinate Ocean Model,1,,unknown,1990,,95,0,14,403,0,3.237496,0.592177,256,270.0,14.0,137,256,Model
+91,TURBINS,TURBINS,1,GPL-2.0,open,2011,,4,6,7,22,27,2.120508,0.510545,257,243.0,-14.0,238,257,Model
+38,Hydromad,Hydrological Model Assessment and Development,1,GPL-2.0,open,2011,,7,0,6,87,0,2.528673,0.510545,258,254.0,-4.0,210,258,Model
+272,BFS,Bedrock Fault Scarp,1,MIT,open,2011,,1,0,5,8,0,1.579669,0.326336,259,259.0,0.0,267,259,Model
+36,Hogback,Hogback,1,MIT,open,2017,,2,7,9,17,22,2.027879,0.30103,260,261.0,1.0,245,260,Model
+3,AquaTellUs,AquaTellUs,1,Academic,restricted,2003,,1,0,0,0,0,0.592177,0.0,261,262.0,1.0,283,261,Model
+11,CBOFS,Chesapeake Bay Operational Forecast System,1,Public Domain,open,2001,,2,0,5,1,0,1.203577,0.0,262,264.0,2.0,276,262,Model
+65,PIHMgis,PIHMgis,1,GPL-3.0,open,2008,,3,0,0,26,0,2.009833,0.0,263,271.0,8.0,251,263,Model
+45,Kudryavtsev Permafrost Model,Kudryavtsev Permafrost Model,1,MIT,open,2016,,1,0,0,14,0,1.730378,0.0,264,268.0,4.0,260,264,Model
+22,ELCIRC,Eulerian-Lagrangian Circulation Model,1,Custom-NonOSI,restricted,2004,,44,0,1,176,0,2.878935,0.0,265,266.0,1.0,177,265,Model
+27,GEOMBEST,"Geomorphic Model of Barrier, Estuarine, and Shoreface Translations",1,GPL-3.0,open,2005,,6,0,0,41,0,2.215955,0.0,266,267.0,1.0,233,266,Model
+93,TopoFlow,TopoFlow,1,MIT,open,2001,,7,5,1,30,71,2.312685,0.0,267,273.0,6.0,225,267,Model
+50,MARM5D,Multi-Layer Soil Erosion and Redistribution Model,1,GPL-2.0,open,2009,,2,0,0,8,0,1.547775,0.0,268,269.0,1.0,268,268,Model
+86,SedBerg,SedBerg,1,GPL-2.0,open,2010,,1,6,1,3,30,1.715084,0.0,269,272.0,3.0,261,269,Model
+137,WATLAC,Water Flow Model for Lake Catchment,1,,unknown,2009,,16,0,2,85,0,2.547036,0.0,270,228.0,-42.0,209,270,Model
+17,DR3M,Distributed Routing Rainfall-Runoff Model,1,Public Domain,open,1978,,10,0,1,9,0,1.801129,0.0,271,265.0,-6.0,258,271,Model
+126,Kernel Interpolation with Barriers,Kernel Interpolation with Barriers,2,Proprietary,proprietary,2010,,2,0,0,28,0,2.02735,0.0,272,186.0,-86.0,246,272,Method
+42,Iceages,Iceages,1,GPL-3.0,open,2008,,2,0,1,7,0,1.516668,0.0,273,255.0,-18.0,269,273,Model
+10,CAM-CARMA,Community Atmosphere Model with Community Aerosol and Radiation Model for Atmospheres,1,Apache-2.0,open,2008,,1,0,0,8,0,1.510411,0.0,274,263.0,-11.0,270,274,Model
+135,SEEP2D,Two-Dimensional Finite Element Seepage Model,1,Public Domain,open,1973,,17,0,1,60,0,2.423557,0.0,275,184.0,-91.0,219,275,Model
+142,SWAP-EPIC,Soil-Water-Atmosphere-Plant and Environmental Policy Integrated Climate Model,1,,unknown,2013,,11,0,0,102,0,2.597838,0.0,276,202.0,-74.0,207,276,Model
+199,HiResFlood-UCI,High-Resolution Flood Model - University of California Irvine,1,,unknown,2016,,2,0,0,28,0,2.02735,0.0,277,276.0,-1.0,247,277,Model
+172,SHIELDOSE,Space Shielding Radiation Dose Calculations,1,Academic,restricted,1980,,2,0,3,5,0,1.446848,0.0,278,256.0,-22.0,272,278,Model
+175,EMMREM,Earth-Moon-Mars Radiation Environment Module,1,GPL-3.0,open,2010,,16,0,2,41,0,2.291724,0.0,279,274.0,-5.0,227,279,Model
+49,LaMEM,Lithosphere and Mantle Evolution Model,1,MIT,open,2015,,2,0,5,9,0,1.647969,0.0,280,252.0,-28.0,263,280,Model
+267,ALFRESCO,Alaska Frame-Based Ecosystem Code,1,GPL-3.0,open,2000,,23,0,5,99,0,2.629379,0.0,281,279.0,-2.0,203,281,Model
+270,BRIE,BarrieR Inlet Environment Model,1,MIT,open,2019,,2,0,5,17,0,1.862966,0.0,282,258.0,-24.0,256,282,Model
+282,MCMM,Meander Centerline Migration Model,1,GPL-2.0,open,2017,,8,0,3,22,0,2.025142,0.0,283,280.0,-3.0,248,283,Model
+285,OTTAR,Ode To Transient Ancho de los Rivers,1,MIT,open,2021,,1,0,6,1,0,1.151982,0.0,284,281.0,-3.0,277,284,Model
