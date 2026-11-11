@@ -59,6 +59,7 @@ def export():
         lambda r: pd.Series(tiers_by_percentile(r.values, len(r)), index=r.index))
     cols = ["model_id", "label", "type_label", "license_class", "year", "score_total", "score_annual",
             "rank", "rank_annual", "n_year", "pct_rank", "first_year", "tier_year"]
+    panel = panel.loc[panel.year >= START]      # ranks and first years are computed on the full series, the file starts in START
     panel[cols].to_csv(DATA / "rank_panel.csv", index=False)
     print(f"rank_panel.csv: {len(panel):,} rows, {panel.model_id.nunique()} models, {panel.year.min()}-{panel.year.max()}")
 

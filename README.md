@@ -70,6 +70,10 @@ The underlying publication, citation, patent and project records are subject to 
 Scopus, Google Patents and funresearch.cn and are not redistributed. The files in `data/` are
 aggregates per model and year.
 
+Entries with equal scores share no rank: in `data/rank_panel.csv` ties are broken by `model_id`, in
+`data/leaderboard_2024.csv` by the order of the model table. The two files therefore give different
+2024 annual ranks to 29 tied entries below rank 213; their scores are identical.
+
 ## Licence
 
 MIT, see `LICENSE`.
