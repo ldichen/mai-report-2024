@@ -56,7 +56,9 @@ def leaderboard_tables(d):
     head = r"Rank & {kind} & Annual & Lifetime & Year & Licence & $\Delta$\\"
     cols = r"{@{}r>{\raggedright\arraybackslash}p{5cm}rrrlr@{}}"
     note = (rf" Annual = {LATEST} annual MAI, by which entries are ranked; Lifetime = lifetime MAI; "
-            rf"Year = release year; $\Delta$ = change from the {PREV} annual rank of the present panel (new = not ranked in {PREV}).")
+            rf"Year = release year; $\Delta$ = change from the {PREV} annual rank of the present panel (new = not ranked in {PREV}). "
+            r"Licence = licence class (Section~\ref{sec:panel}): open, OSI-approved or public domain; restricted, academic or non-commercial; "
+            r"proprietary; freeware; unknown, no licence found.")
 
     def table(sub, name, caption, label, long, kind):
         rows = []
