@@ -100,7 +100,7 @@ def licence_summary(d):
 
 def momentum_table(d):
     d = d.copy()
-    d["gap"] = d.lifetime_rank - d.annual_rank     # positive: current use ahead of accumulated standing
+    d["gap"] = d.lifetime_rank - d.annual_rank     # positive: annual rank above lifetime rank
     up = d.loc[(d.annual_rank <= TOP) & (d.gap >= MIN_GAP)].sort_values("gap", ascending=False)
     down = d.loc[(d.lifetime_rank <= TOP) & (d.gap <= -MIN_GAP)].sort_values("gap")
     pd.concat([up.assign(group="rising"), down.assign(group="levelling")]).to_csv(DATA / f"momentum_{LATEST}.csv", index=False)
@@ -110,11 +110,11 @@ def momentum_table(d):
                          f"{int(r.lifetime_rank)} & {int(r.gap):+d} \\\\" for _, r in sub.iterrows())
     tex = (r"\begin{table}[tbp]\centering\small\setlength{\tabcolsep}{5pt}" + "\n"
            + rf"\caption{{Entries whose {LATEST} annual rank and lifetime rank differ by at least {MIN_GAP} places, among entries ranked in the top {TOP} by the better of the two ranks. "
-           + r"Gap = lifetime rank $-$ annual rank: positive when current use runs ahead of accumulated standing, negative when accumulated standing exceeds current use. Year = release year.}\label{tab:momentum}" + "\n"
+           + r"Gap = lifetime rank $-$ annual rank. A positive gap means that the influence of an entry in 2024 is ahead of its accumulated influence, and a negative gap the reverse. Year = release year.}\label{tab:momentum}" + "\n"
            + r"\begin{tabular}{@{}>{\raggedright\arraybackslash}p{3.2cm}rrrr@{}}\toprule" + "\n"
            + r"Entry & Year & Annual rank & Lifetime rank & Gap\\ \midrule" + "\n"
-           + rf"\multicolumn{{5}}{{@{{}}l}}{{\textit{{Current use ahead of accumulated standing}} ({len(up)} entries)}}\\" + "\n" + rows(up) + "\n" + r"\midrule" + "\n"
-           + rf"\multicolumn{{5}}{{@{{}}l}}{{\textit{{Accumulated standing ahead of current use}} ({len(down)} entries)}}\\" + "\n" + rows(down) + "\n"
+           + rf"\multicolumn{{5}}{{@{{}}l}}{{\textit{{Annual rank above lifetime rank}} ({len(up)} entries)}}\\" + "\n" + rows(up) + "\n" + r"\midrule" + "\n"
+           + rf"\multicolumn{{5}}{{@{{}}l}}{{\textit{{Annual rank below lifetime rank}} ({len(down)} entries)}}\\" + "\n" + rows(down) + "\n"
            + r"\bottomrule\end{tabular}\end{table}" + "\n")
     (TEX / "table_momentum.tex").write_text(tex, encoding="utf-8")
     for name, sub in (("rising", up), ("levelling off", down)):
