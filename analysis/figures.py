@@ -47,6 +47,7 @@ mpl.rcParams.update({
 C = dict(orange="#E69F00", sky="#56B4E9", green="#009E73", yellow="#F0E442",
          blue="#0072B2", vermil="#D55E00", purple="#CC79A7")
 TIER = {"Foundation": C["vermil"], "Popular": C["blue"], "Niche": "#A6A6A6"}
+GROUP_LABEL = {"Foundation": "Top 5%", "Popular": "Next 20%", "Niche": "Remaining 75%"}   # names shown in figures
 QUAL = ["#0072B2", "#D55E00", "#009E73", "#CC79A7", "#E69F00", "#56B4E9",
         "#7B3294", "#8C510A", "#1B9E77", "#E7298A", "#A6761D", "#386CB0"]
 
@@ -189,8 +190,8 @@ def fig3_channels():
     ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda v, _: f"{v:g}"))
     ax.set_xticks(ticks); ax.set_xticklabels(tlabs); ax.set_xlim(-0.8, 6.8)
     ax.set_ylabel("Per-entry ratio")
-    ax.legend(handles=[Patch(color=TIER[t], label=f"{t} (n = {(it.tier == t).sum()})") for t in tiers],
-              loc="lower center", bbox_to_anchor=(0.5, 1.0), ncol=3)
+    ax.legend(handles=[Patch(color=TIER[t], label=f"{GROUP_LABEL[t]} (n = {(it.tier == t).sum()})") for t in tiers],
+              loc="lower right", bbox_to_anchor=(1.0, 1.0), ncol=3, columnspacing=1.0, handlelength=1.4)
     label(ax, "b")
     save(fig, "fig3_channels")
 
